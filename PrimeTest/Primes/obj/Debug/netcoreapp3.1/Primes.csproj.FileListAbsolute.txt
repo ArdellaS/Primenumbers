@@ -1,0 +1,11 @@
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\Primenumbers\PrimeTest\Primes\bin\Debug\netcoreapp3.1\Primes.exe
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\Primenumbers\PrimeTest\Primes\bin\Debug\netcoreapp3.1\Primes.deps.json
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\Primenumbers\PrimeTest\Primes\bin\Debug\netcoreapp3.1\Primes.runtimeconfig.json
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\Primenumbers\PrimeTest\Primes\bin\Debug\netcoreapp3.1\Primes.runtimeconfig.dev.json
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\Primenumbers\PrimeTest\Primes\bin\Debug\netcoreapp3.1\Primes.dll
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\Primenumbers\PrimeTest\Primes\bin\Debug\netcoreapp3.1\Primes.pdb
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\Primenumbers\PrimeTest\Primes\obj\Debug\netcoreapp3.1\Primes.AssemblyInfoInputs.cache
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\Primenumbers\PrimeTest\Primes\obj\Debug\netcoreapp3.1\Primes.AssemblyInfo.cs
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\Primenumbers\PrimeTest\Primes\obj\Debug\netcoreapp3.1\Primes.dll
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\Primenumbers\PrimeTest\Primes\obj\Debug\netcoreapp3.1\Primes.pdb
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\Primenumbers\PrimeTest\Primes\obj\Debug\netcoreapp3.1\Primes.csprojAssemblyReference.cache
